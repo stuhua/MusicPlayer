@@ -10,4 +10,8 @@ public interface IMusic {
     void pause();
 
     void stop();
+
+    void next();
+
+    void prev();
 }

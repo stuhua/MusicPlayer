@@ -56,4 +56,14 @@ public class MusicManger implements IMusic {
     public void stop() {
         mMusicService.pause();
     }
+
+    @Override
+    public void next() {
+
+    }
+
+    @Override
+    public void prev() {
+
+    }
 }
