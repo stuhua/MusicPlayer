@@ -54,7 +54,6 @@ public class MusicService extends IntentService implements IMusic {
 
     @Override
     public void next() {
-
     }
 
     @Override
