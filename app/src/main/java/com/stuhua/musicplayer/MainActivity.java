@@ -3,6 +3,8 @@ package com.stuhua.musicplayer;
 import android.content.ComponentName;
 import android.content.Context;
 import android.media.AudioManager;
+import android.support.annotation.IntDef;
+import android.support.annotation.StringDef;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
